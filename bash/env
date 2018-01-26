@@ -1,0 +1,5 @@
+export PATH="/usr/local/bin:\
+$HOME/.rvm/bin:\
+$HOME/bin:\
+$HOME/bin/common:\
+$PATH"
